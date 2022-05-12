@@ -4,33 +4,30 @@ Working windshield wipers are vital for driver visibility. The vehicle is consid
 
 # WORKING PROCESS
 *   When the button is pressed ONCE, the car will be on ACC mode.
-
 *   When the button is pressed TWICE, the car will be on Ignition mode.
-
 *   When the button is pressed THREE times, wiper turn on.
-
 *   When the button is pressed FOUR times, wiper turn off.
 
 # SWOT Analysis
 
-* Strength
+*   Strength
  
        Visibility
        The wiper does not stop in the middle of the window during drive.
        Safety
        
-* Weakness
+*   Weakness
       
        High cost
        Not automatic
 
-* Threats
+*   Threats
 
        Once the board repaired cannot be replaced quickly
 
 # Requirements
 
-* High level requirements
+*   High level requirements
 
 |ID	|Discription|	status|
 |:--------:|:---------:|:------:|
@@ -39,13 +36,13 @@ Working windshield wipers are vital for driver visibility. The vehicle is consid
 |HR_03| Wiper turned on|Implemented|
 |HR_04|	Wiper turned off|Implemented|
 
-* Low level requirements
+*   Low level requirements
 
 |ID|	Discription|	status|
 |:--------:|:---------:|:------:|
 |LR_01|	Button pressed ONCE for two seconds - ON LED RED	|Implemented|
 |LR_02|Button pressed once again times - OFF LED RED	|Implemented|
-|LR_03	|Button pressed two time - ON BLUE,GREEN,ORANGE	|Implemented|
+|LR_03|Button pressed two time - ON BLUE,GREEN,ORANGE	|Implemented|
 |LR_04	|Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE	|Implemented|
 
  

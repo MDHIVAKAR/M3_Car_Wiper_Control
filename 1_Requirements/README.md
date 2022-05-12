@@ -44,6 +44,3 @@ Working windshield wipers are vital for driver visibility. The vehicle is consid
 |LR_02|Button pressed once again times - OFF LED RED	|Implemented|
 |LR_03|Button pressed two time - ON BLUE,GREEN,ORANGE	|Implemented|
 |LR_04	|Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE	|Implemented|
-
- 
-

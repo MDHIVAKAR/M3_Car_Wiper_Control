@@ -13,18 +13,18 @@
 
 *   Strength
  
-       Visibility
-       The wiper does not stop in the middle of the window during drive.
-       Safety
+    Visibility
+    The wiper does not stop in the middle of the window during drive.
+    Safety
        
 *   Weakness
       
-       High cost
-       Not automatic
+    High cost
+    Not automatic
 
 *   Threats
 
-       Once the board repaired cannot be replaced quickly
+    Once the board repaired cannot be replaced quickly
 
 # Requirements
 

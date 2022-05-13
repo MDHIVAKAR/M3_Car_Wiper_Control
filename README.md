@@ -8,4 +8,4 @@ GIT CODACY
  
 GIT CODIGA
 
-*   Codiga - Static Analysis ![codiga Badge](https://api.codiga.io/project/33314/score/svg)
+*   Codiga - Static Analysis ![codiga Badge](https://api.codiga.io/project/33314/status/svg)

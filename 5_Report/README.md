@@ -9,7 +9,7 @@
 *   When the button is pressed THREE times, wiper turn on.
 *   When the button is pressed FOUR times, wiper turn off.
 
-# SWOT Analysis
+## SWOT Analysis
 
 *   Strength
  
@@ -26,7 +26,7 @@
 
     Once the board repaired cannot be replaced quickly
 
-# Requirements
+## Requirements
 
 *   High level requirements
 
@@ -46,7 +46,7 @@
 |LR_0|Button pressed two time - ON BLUE,GREEN,ORANGE	|Implemented|
 |LR_04|Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE	|Implemented|
 
- *   flowchart
+*   flowchart
 
 ![image](https://user-images.githubusercontent.com/101094751/167996505-14c4d678-91f8-42b8-bce1-1c49d9a1c6ef.png)
 
